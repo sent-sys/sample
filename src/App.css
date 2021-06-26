@@ -1,11 +1,21 @@
-body{
+body {
   background-color: #f4f3ee !important;
 }
 
-.nav-background{
+/* --NAVSECTION CUSTOM-- */
+
+.nav-background {
   background-color: #8a817c !important;
 }
 
-.button-color{
-  background-color: #f4f3ee !important
+.navi-link:hover {
+  color: #e0afa0 !important;
+}
+
+.button-color {
+  background-color: #f4f3ee !important;
+}
+
+.button-color:hover {
+  background-color: #e0afa0 !important;
 }
